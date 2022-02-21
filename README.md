@@ -1,6 +1,7 @@
 # Max3Sat_Problem
  
 Max3Sat – what is this?
+
 • You have n logical variables (true/false or 1/0)
 
 
